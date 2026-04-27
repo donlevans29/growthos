@@ -26,4 +26,4 @@ Checklists Of Basic Skills
 - modify files on your computer then push changes to overwrite the files into the main project
 
 Intermidaiate skills
-- Comming soon
+- anatomy of code - how to understand the code that ai outputs
