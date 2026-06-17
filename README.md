@@ -1,29 +1,104 @@
-Hello everone
-Yes
+# Code for Tracking Ads
+Hello everyone
 
-Pre Enviroment Setup
- - prepare your computer enviroment
- - download basics ...
-     - Visual Studios Code
-     - Linux "bash terminal"
-     - Git
-       - Configure Git with name and email globally
-      
-Basics of Files
-- Root File = main folder
+---
 
-Basics of Terminal Commmands
-- create a file
-- create a folder
-- list files
-- open code editor
-- run commands
-- external terminals vs internal terminalls
+## 🚀 Getting Started
 
-Checklists Of Basic Skills
-- Connect to your github account in your visual studio account
-- pull files into your computer
-- modify files on your computer then push changes to overwrite the files into the main project
+### 1. Install Required Software
+Download and Install (if haven't already!)
+- Visual Studio Code
+- Git
+- Terminal
 
-Intermidaiate skills
-- anatomy of code - how to understand the code that ai outputs
+### 2. Configure Git
+Open your terminal and run:
+
+```
+git config --global user.name "Your GitHub username"
+git config --global user.email "Your GitHub email"
+```
+
+This makes sure your work is tracked correctly
+
+---
+
+## 📂 Understanding Files
+The **Root Folder** is the main prject directory, all files and folders asre stored inside it
+
+---
+
+## 💻 Basic Terminal Commands
+These are some of the basic commands you will use:
+- Create a file
+
+```
+touch filename
+```
+
+- Create a folder
+
+```
+mkdir foldername
+```
+
+- List files
+
+```
+ls
+```
+
+- Open project in VS Code
+
+```
+code .
+```
+
+- Check changes
+
+```
+get status
+```
+
+---
+
+## ✅ Basic Skills Checklist
+Before continuing you should be able to
+- Connect your GitHub account to VS Code
+- Clone a repository
+- Edit files locally
+- Commit and push chnages to overwrite the files in the main project
+
+---
+
+## ⚠️ Common Issues
+- Check spelling of commands carefully
+- Make sure Git is installed before running commands
+
+---
+
+## 🤝 Contributing
+To contribute to this project:
+- Fork the repository
+
+
+  <img src="Fork.png" width="300">
+
+- Clone it to your computer
+
+
+  <img src="Clone.png" width="300" height="250">
+
+- Make your changes
+- Push your changes
+- Submit a pull request
+
+---
+
+## ❓ Need Help
+If you are unsure about anything:
+- Search online for the command
+- Check GitHub documentation
+- Ask for help form others
+
+---
